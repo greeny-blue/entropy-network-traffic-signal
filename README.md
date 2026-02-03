@@ -41,7 +41,6 @@ No model fitting or threshold optimisation is performed.
   - synthetic data generation
   - entropy computation
   - visualisation and discussion
-- Minimal helper functions used directly within the notebook
 
 ---
 
