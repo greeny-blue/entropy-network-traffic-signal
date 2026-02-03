@@ -37,7 +37,7 @@ No model fitting or threshold optimisation is performed.
 
 ## Repository contents
 
-- A single Jupyter notebook containing:
+- A single **[Jupyter notebook](https://github.com/greeny-blue/entropy-network-traffic-signal/blob/main/notebooks/Entropy%20as%20an%20interpretable%20signal%20in%20network%20traffic.ipynb)** containing:
   - synthetic data generation
   - entropy computation
   - visualisation and discussion
